@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>TheBlueSky.SwiftOAuth</id>
+        <version>1.0.0</version>
+        <title>TheBlueSky.SwiftOAuth</title>
+        <authors>TheBlueSky</authors>
+        <owners>TheBlueSky</owners>
+        <projectUrl>https://github.com/TheBlueSky/TheBlueSky.SwiftOAuth</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A simple and straightforward OAuth 1.0a client library for .NET.</description>
+        <copyright>© TheBlueSky.Net. All rights reserved.</copyright>
+        <tags>OAuth OAuth1.0 OAuth1.0a</tags>
+    </metadata>
+    <files>
+        <file src="artifacts\TheBlueSky.SwiftOAuth.dll" target="lib\portable-net451+win81+wpa81\TheBlueSky.SwiftOAuth.dll" />
+    </files>
+</package>
